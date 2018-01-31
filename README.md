@@ -1,2 +1,2 @@
 # coursera
-My courses
+Мои курс на курсэре
